@@ -9,7 +9,7 @@ A simple web app created as part of university project, of which the purpose was
 - User's can use a search bar to filter coins and render content dynamically.
 
 ### React Version
-![](GIF/cryto_dashboard_react_1.gif)
+![](GIF/crypto_dashboard_react_1.gif)
 
 ### Blazor Version
-![](GIF/cryto_dashboard_blazor_1.gif)
+![](GIF/crpyto_dashboard_blazor_1.gif)
