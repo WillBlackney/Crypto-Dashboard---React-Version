@@ -3,6 +3,8 @@
 
 A simple web app created as part of university project, of which the purpose was to create the same app in both Blazor and React. A live demo of the app can be found here: https://crypto-dashboard-react-6ede1.web.app/
 
+Blazor Version source code: https://github.com/WillBlackney/Crypto-Dashboard--Blazor-Version-
+
 ### Overview + Features
 - Makes a call to the 'Coin Gecko' crypto currency API: https://www.coingecko.com/en
 - Renders an information panel for each coin data returned from the request
